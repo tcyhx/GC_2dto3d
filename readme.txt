@@ -13,5 +13,7 @@
     
 - Usage example:
     gc girl/girl.png girl/mask.png girl/strokes.png
+  You can use "brush2depth" software to generate "mask.png" and "strokes.png", which can be downloaded from:
+  https://github.com/tcyhx/brush2depth
     
 - For any questions, suggestions or bug reports, please, contact yuanhx@mail.ustc.edu.cn
