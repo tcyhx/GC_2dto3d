@@ -2,8 +2,9 @@
 - Version: 1.0 (last update: May-21-2014)
 
 - Note:
-(1) The implementation is for comparision with our submitted paper:
-    Nonlocal Random Walks Algorithm for Semi-Automatic 2D-to-3D Image Conversion
+(1) The implementation is for comparision with our paper:
+    Yuan H, Wu S, Cheng P, An P, and Bao S, Nonlocal Random Walks for Semi-Automatic 2D-to-3D Image Conversion, 
+    IEEE Signal Processing Letters, 2015, 22(3): 371-374.
 (2) This code is reimplemented by Hongxing Yuan based on the Graph-cuts (GC) method of the following paper:
     Semi-Automatic Depth Map Generation in Unconstrained Images and Video Sequences for 2D to Stereoscopic 3D Conversion
 (3) We use MAXFLOW 3.01 to perform GC computation which can be downloaded from:
